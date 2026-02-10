@@ -1,4 +1,4 @@
-#Balances Binary Search Tree
+#Balanced Binary Search Tree
 from collections import deque
 from typing import Optional
 
